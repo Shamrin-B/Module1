@@ -9,7 +9,16 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
+```
+men_stepped_on_the_moon = eval(input())
 
+print(men_stepped_on_the_moon)
+```
 ## Output
-
+```
+Enter a string: Neil Armstrong
+Neil Armstrong
+```
 ## Result
+Thus ,we have written a Python program to read a string from the user and then print it.
+
