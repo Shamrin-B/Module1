@@ -13,6 +13,19 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 
-## Output
+```
+a = 7
+if a % 2 == 0:
+    print("EVEN")
+else:
+    print("ODD")
 
+```
+
+## Output
+```
+ODD
+```
 ## Result
+Thus ,we have written Python program to check whether the given number is **even** or **odd** using `if...else` statements.
+
